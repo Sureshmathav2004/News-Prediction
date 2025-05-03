@@ -45,5 +45,5 @@ Combined dataset contains approximately 44,000 news articles.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/news-prediction.git
+   git clone [https://github.com/yourusername/news-prediction.git](https://github.com/Sureshmathav2004/News-Prediction.git)
    cd news-prediction
